@@ -1,1 +1,3 @@
-# Projeto-Biscoito-da-sorte
+### Olá, seja bem vindo(a) ao projeto Biscoito da sorte 🍪
+
+#### Readme em construção ...
