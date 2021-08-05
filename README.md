@@ -18,6 +18,6 @@ Abaixo deixo uma exemplificação do projeto em funcionamento.
 
 Este projeto possui a estrutura padrão do React.
 
-##### Utilizei os conceitos simples do React, somente para fixar o aprendizado em algo mais prático.
-##### Os conceitos que estudo sempre procuro inserir em projetos práticos.
-##### espero que tenha gostado, e até uma próxima!
+#### Utilizei os conceitos simples do React, somente para fixar o aprendizado em algo mais prático.
+#### Os conceitos que estudo sempre procuro inserir em projetos práticos.
+#### espero que tenha gostado, e até uma próxima!
