@@ -5,6 +5,17 @@ de buscar frases aleatórias. Utilizei os conceitos de estado, passagem de
 props e componentização do React.
 Abaixo deixo uma exemplificação do projeto em funcionamento.
 
+## tecnologias utilizadas
+
+- Linguagens:
+  - JavaScript
+- framework:
+  - React
+- Estilos:
+  - Bootstrap
+- Organização e Padronização de codigo:
+  - Eslint / config-airbnb-base
+
 ## Começando
 
 - Clone o repositório git clone git@github.com:clebertonf/Projeto-Biscoito-da-sorte.git
